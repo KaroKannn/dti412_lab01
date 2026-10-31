@@ -31,3 +31,15 @@ I expect to improve my programming skills, understand application development, a
 - **Technical skills I want to improve:** Java, Python, Networking, and Cybersecurity
 - **Technologies I want to learn:** Django, REST API, and Database Management
 - **Dream Job Position:** Network Security Engineer
+
+## Semester Goal
+
+- **Learn Django**
+- **Learn REST API development**
+- **Learn Cloud Deployment**
+
+## Portfolio Project
+
+- **Student Management System**
+- **Internship Management System**
+- **Inventory Management System**
